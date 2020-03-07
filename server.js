@@ -25,3 +25,6 @@ function handleRequest(req, res) {
 server.listen(PORT, function() {
   console.log("Server is listening on PORT: " + PORT);
 });
+
+
+// Create variables to hold data

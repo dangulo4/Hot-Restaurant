@@ -28,3 +28,8 @@ server.listen(PORT, function() {
 
 
 // Create variables to hold data
+var tables = [
+  {
+    routeName: 
+  }
+]
